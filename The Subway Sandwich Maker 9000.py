@@ -51,6 +51,11 @@ meat = [
 extra_meat = [
 		"extra Bacon, ",
 		"extra Pepperoni, ",
+		"extra beef, ",
+		"extra chicken, ",
+		"extra ham, ",
+		"extra turkey, ",
+		"extra steak, ",
 		"no extra meat, "
 ]
 
